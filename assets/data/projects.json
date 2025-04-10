@@ -1,0 +1,22 @@
+{
+    "projects": [
+      {
+        "id": "etc-website",
+        "title": "ETC Website",
+        "category": "design",
+        "image": "assets/etc-website.png",
+        "description": "UX/UI Design for the website of the Scientific Club ETC.",
+        "tags": ["UI", "UX", "Figma"],
+        "link": "https://etc-club.vercel.app/"
+      },
+      {
+        "id": "khfifa",
+        "title": "Khfifa App",
+        "category": "development",
+        "image": "assets/khfifa.png",
+        "description": "Khfifa is a mobile app freight transportation solution.",
+        "tags": ["Flutter", "Dart", "UI", "UX", "Figma"],
+        "link": "#"
+      }
+    ]
+  }
